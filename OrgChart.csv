@@ -3,7 +3,7 @@ id,parentId,name,positionName,size
 1,0,Board of Directors,,
 2,0,Elder Kafele & Dave Mitchell,Directors,
 3,0,Devon Jones,Founding Director,
-4,2,Dr. Ardavan Eizadirad, Senior Manager-Research Evaluation and Knowledge Mobilization,
+4,2,Dr. Ardavan Eizadirad, "Senior Manager-Research, Evaluation and Knowledge Mobilization",
 5,4,Violence Prevention & Intervention,,
 6,4,Operations,,
 7,4,Academic Intervention & Support,,
